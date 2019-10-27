@@ -172,10 +172,10 @@ $ yarn adb
 
 caso contrário, no arquivo env.js, alterar o valor da variável HOST para o ip de sua máquina ou '10.0.2.2' caso estiver esando o emulador do Android.
 
-```
+```javascript
 //HOST='localhost'
 //HOST='10.0.2.2'
-HOST='192.168.0.103'
+HOST = "192.168.0.103";
 ```
 
 ```bash
