@@ -163,8 +163,8 @@ $ cd meetapp-gostack/mobile
 
 ```
 
-caso esteja utilizando a depuração por USB no Android executar:
-para fazer o redirecionamento das portas da API e do Rectotron.
+Caso esteja utilizando a depuração por USB no Android executar:
+para fazer o redirecionamento das portas da API e do Reactotron.
 
 ```bash
 $ yarn adb
@@ -176,11 +176,13 @@ caso contrário, no arquivo env.js, alterar o valor da variável HOST para o ip 
 //HOST='localhost'
 //HOST='10.0.2.2'
 HOST='192.168.0.103'
+```
 
+```bash
 # instale as dependências
 $ yarn install
 
-# Inicie a aplicação
+# Inicie o metro server
 $ yarn start
 ```
 
