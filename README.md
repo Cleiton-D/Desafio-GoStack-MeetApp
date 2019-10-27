@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img alt="Go Stack logo" src="" />
+    <img alt="Go Stack logo" src="https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/gostack.png" />
     <br>
-    MeetApp
+    MeetApp <img alt="Go Stack logo" src="https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/logo-meetapp.svg" />
 </h1>
 
 <h4 align="center">
