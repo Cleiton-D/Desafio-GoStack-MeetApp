@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img alt="Go Stack logo" src="https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/gostack.png" />
+    <img alt="Go Stack" src="https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/gostack.png" />
     <br>
     <div style="display:flex; align-items:center">
-      MeetApp <img alt="Go Stack logo" src="https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/logo-meetapp.svg" />
+      <img alt="Meetup Logo" width="" src="https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/logo-meetapp.svg" />&nbsp;&nbsp;MeetApp 
     </div>
 </h1>
 
@@ -10,13 +10,13 @@
   Desafio para certificação do [RocketSeat GoStack Bootcamp](https://rocketseat.com.br/bootcamp)
 </h4>
 <p align="center">
-  <img alt="GitHub top language" src="">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Cleiton-D/Desafio-GoStack-MeetApp.svg">
 
-  <img alt="GitHub language count" src="">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Cleiton-D/Desafio-GoStack-MeetApp.svg">
 
-  <img alt="Repository size" src="">
-  <a href="">
-    <img alt="GitHub last commit" src="">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Cleiton-D/Desafio-GoStack-MeetApp.svg">
+  <a href="https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Cleiton-D/Desafio-GoStack-MeetApp.svg">
   </a>
 </p>
 
