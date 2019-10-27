@@ -130,12 +130,11 @@ $ yarn dev
 ```
 
 Em uma nova aba do terminal:
+Para inicar o serviço de envio de e-mail.
 
 ```bash
 $ yarn jobs
 ```
-
-Para inicar o serviço de envio de e-mail
 
 ### Instalar o MeetApp Web
 
@@ -163,12 +162,11 @@ $ cd meetapp-gostack/mobile
 ```
 
 caso esteja utilizando a depuração por USB no Android executar:
+para fazer o redirecionamento das portas da API e do Rectotron.
 
 ```bash
 $ yarn adb
 ```
-
-para fazer o redirecionamento das portas da API de do Rectotron
 
 caso contrário, no arquivo env.js, alterar o valor da variável HOST para o ip de sua máquina ou '10.0.2.2' caso estiver esando o emulador do Android.
 
