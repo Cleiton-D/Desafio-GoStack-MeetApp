@@ -3,13 +3,13 @@ import styled from 'styled-components/native';
 import Input from '~/components/Input';
 import Button from '~/components/Button';
 
-export const Container = styled.SafeAreaView`
+export const Container = styled.View`
 	padding: 20px;
 `;
 
 export const Form = styled.View`
 	align-self: stretch;
-	margin-top: 50px;
+	/* margin-top: 50px; */
 `;
 
 export const FormInput = styled(Input)`

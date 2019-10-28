@@ -25,6 +25,8 @@ export default function Dashboard() {
 	);
 
 	async function loadMeetups(pageLoad = 1) {
+		if (!Number.isInteger(pageLoad)) return;
+
 		const response = await api.get('meetups', {
 			params: { date, page: pageLoad },
 		});
@@ -38,7 +40,7 @@ export default function Dashboard() {
 		}));
 
 		setMeetups(pageLoad >= 2 ? [...meetups, ...data] : data);
-		setPage(pageLoad)
+		setPage(pageLoad);
 		setRefreshing(false);
 	}
 
@@ -77,7 +79,7 @@ export default function Dashboard() {
 	return (
 		<Background>
 			<Header />
-			<NavigationEvents onWillFocus={loadMeetups} />
+			<NavigationEvents onWillFocus={refreshMeetups} />
 			<Container>
 				<DateSelector>
 					<TouchableOpacity onPress={handlePrevDay}>

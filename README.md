@@ -22,10 +22,11 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;
 </p>
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/meetapp-web-screenshot1.png)
+![App Screenshot](https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/meetapp-web-screenshot2.png)
+![App Screenshot](https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/meetapp-mobile-screenshot1.png) ![App Screenshot](https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/meetapp-mobile-screenshot2.png)
 
 ## :rocket: Tecnologias
 

@@ -90,7 +90,7 @@ export default function InsertUpdate({ match, history }) {
 				<Form onSubmit={handleSubmit} initialData={meetup} schema={schema}>
 					<BannerInput name="banner_id"  />
 					<Input name="title" placeholder="Titulo do Meetup" />
-					<Textarea name="description" placeholder="Descrição completa" />
+					<Textarea maxLength="255" name="description" placeholder="Descrição completa" />
 					<Datepicker name="data" placeholderText="data do meetup" />
 					<Input name="location" placeholder="Localização" />
 					<button type="submit">
