@@ -24,9 +24,8 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-utilizar">Como utilizar</a>&nbsp;&nbsp;&nbsp;
 </p>
-![App Screenshot](https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/meetapp-web-screenshot1.png)
-![App Screenshot](https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/meetapp-web-screenshot2.png)
-![App Screenshot](https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/meetapp-mobile-screenshot1.png) ![App Screenshot](https://github.com/Cleiton-D/Desafio-GoStack-MeetApp/blob/master/assets/meetapp-mobile-screenshot2.png)
+![App Screenshot](https://raw.githubusercontent.com/Cleiton-D/Desafio-GoStack-MeetApp/master/assets/meetapp-web-screenshot2.png)
+![App Screenshot](https://github.com/douglasporto/meetapp-gostack/blob/master/assets/screenshot2.png)
 
 ## :rocket: Tecnologias
 
